@@ -1,5 +1,5 @@
 # MY_OPEN_ACCESS_PUBLICATIONS
-Here you can find my publications that have been published in Open Access Journals
+Here you can find my publications that have been published in Open Access Journals. Below it is presented a brief description of each file. Please share these files with those people you believe could find them useful.
 
 The file **"Applied Sciences (2021)"** is a study on the thermal performance of building roofs with traditional and solar reflective coatings in Mexico. The results presented in this article are relevant for those building users/owners when selecting waterproofing materials for their homes.
 
